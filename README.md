@@ -8,3 +8,7 @@ assign appropriate credit.
 
 "make" builds the CV
 "make clean" cleans everything up, including the pdf
+
+----------
+
+Shamelessly Stolen from @pbauman 
