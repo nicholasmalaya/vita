@@ -9,6 +9,8 @@ assign appropriate credit.
 "make" builds the CV
 "make clean" cleans everything up, including the pdf
 
+I also like: https://enhancv.com/
+
 ----------
 
 Shamelessly Stolen from @pbauman 
